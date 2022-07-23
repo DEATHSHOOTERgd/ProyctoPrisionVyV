@@ -1,0 +1,1 @@
+search_result['312']=["topic_000000000000008E.html","ControlActividadPractica.FiltrarModalidad Method","Metodo que se encarga de buscar actividades a partir de su modalidad."];

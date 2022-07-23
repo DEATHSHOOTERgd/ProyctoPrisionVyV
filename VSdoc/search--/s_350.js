@@ -1,0 +1,1 @@
+search_result['350']=["topic_00000000000000A5.html","ControlRecluso.BuscarRecluso Method","Busca un Recluso cuya cédula coincida con cedula."];

@@ -1,0 +1,11 @@
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Control.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Control.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Data.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Model.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Data.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Model.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.pdb

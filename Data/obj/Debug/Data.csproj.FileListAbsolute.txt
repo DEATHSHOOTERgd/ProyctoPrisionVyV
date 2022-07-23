@@ -1,0 +1,23 @@
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\bin\Debug\Data.dll
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\bin\Debug\Data.pdb
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\bin\Debug\Model.dll
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\bin\Debug\Model.pdb
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\obj\Debug\Data.dll
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Data\obj\Debug\Data.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Data.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Data.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Data.dll.CodeAnalysisLog.xml
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Data.dll.lastcodeanalysissucceeded
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Model.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Model.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.pdb

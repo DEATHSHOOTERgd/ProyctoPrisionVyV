@@ -1,0 +1,1 @@
+search_result['347']=["topic_00000000000000A2.html","ControlRecluso.buscarExpediente Method","Busca busca el expediente del recluso cuya cpedula coincida con cedula."];

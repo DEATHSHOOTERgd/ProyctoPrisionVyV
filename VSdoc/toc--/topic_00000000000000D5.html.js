@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['90',"Data.Excepciones Namespace","topic_00000000000000D3.html"],['91',"ConexionFallida Class","topic_00000000000000D4.html"],['92',"ConexionFallida Constructor","topic_00000000000000D5.html"]];

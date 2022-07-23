@@ -1,0 +1,14 @@
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Model\bin\Debug\Model.dll
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Model\bin\Debug\Model.pdb
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Model\obj\Debug\Model.dll
+C:\Users\DEATHSHOOTERgd\Desktop\Ingeniería_SOFTWARE\6to Semestre\Construccion De Software\Proyecto2P\ProyectoPrisionSexto\Model\obj\Debug\Model.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\bin\Debug\Model.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\bin\Debug\Model.pdb
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\bin\Debug\Model.dll.CodeAnalysisLog.xml
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\bin\Debug\Model.dll.lastcodeanalysissucceeded
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\obj\Debug\Model.dll
+C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Model\obj\Debug\Model.pdb

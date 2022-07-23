@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['99',"Model Namespace","topic_000000000000002C.html"],['100',"Actividad Class","topic_000000000000002D.html"],['101',"Actividad Constructor","topic_0000000000000032_overloads--.html"],['102',"Actividad(int, string, string) Constructor","topic_0000000000000033.html"]];
