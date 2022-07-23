@@ -21,3 +21,12 @@ C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debu
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.dll
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Data.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Data.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Model.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\bin\Debug\Model.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Data\obj\Debug\Data.pdb

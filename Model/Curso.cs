@@ -1,23 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace Model
-{
-    public class Curso: GrupoActividad
-    {
-        private int totalDiasRedencion;
-        private int diasDuracion;
 
-        public Curso(List<Recluso> reclusos, Horario horario, Actividad actividad, int totalDiasRedencion, int diasDuracion) : base(reclusos, horario, actividad)
-        {
-            this.totalDiasRedencion = totalDiasRedencion;
-            this.diasDuracion = diasDuracion;
-        }
+namespace Model {
 
-        public int TotalDiasRedencion { get => totalDiasRedencion; set => totalDiasRedencion = value; }
-        public int DiasDuracion { get => diasDuracion; set => diasDuracion = value; }
+  /// <summary>
+  /// Es un curso asignado a de una actividad curricular
+  /// </summary>
+  public class Curso : GrupoActividad {
+    /// <summary>
+    /// Total de días de redención que se aplicna al finalizar el curso 
+    /// </summary>
+    private int _totalDiasRedencion;
+    /// <summary>
+    /// Número de días que dura el curso.
+    /// </summary>
+    private int _diasDuracion;
+
+    public int TotalDiasRedencion { get => _totalDiasRedencion; set => _totalDiasRedencion = value; }
+    public int DiasDuracion { get => _diasDuracion; set => _diasDuracion = value; }
+
+    public Curso(List<Recluso> reclusos, Horario horario, Actividad actividad, int totalDiasRedencion, int diasDuracion) : base(reclusos, horario, actividad) {
+      this._totalDiasRedencion = totalDiasRedencion;
+      this._diasDuracion = diasDuracion;
     }
+  }
 }

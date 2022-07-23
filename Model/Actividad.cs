@@ -1,40 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Model {
+  /// <summary>
+  /// Esta es la clase padre que representa las actividades en las que se pueden inscribir los reclusos dentro de la prisión.
+  /// </summary>
+  public abstract class Actividad {
+    /// <summary>
+    /// Es el identificador de la actividad dado por la BD.
+    /// </summary>
+    private int _id;
+    /// <summary>
+    /// Es el número de cupos disponiles para una actividad.
+    /// </summary>
+    private int _cupos;
+    /// <summary>
+    /// Es el nombre de la actividad o descripción de la misma.
+    /// </summary>
+    private string _descripcion;
+    /// <summary>
+    /// Es la modalidad en la que se realiza la actividad
+    /// </summary>
+    private string _modalidad;
 
-namespace Model
-{
-    public abstract class Actividad
-    {
-        private int id;
-        private int cupos;
-        private string descripcion;
-        private string modalidad;
+    public int Id { get => _id; set => _id = value; }
+    public int Cupos { get => _cupos; set => _cupos = value; }
+    public string Descripcion { get => _descripcion; set => _descripcion = value; }
+    public string Modalidad { get => _modalidad; set => _modalidad = value; }
 
-        public int Id { get => id; set => id = value; }
-        public int Cupos { get => cupos; set => cupos = value; }
-        public string Descripcion { get => descripcion; set => descripcion = value; }
-        public string Modalidad { get => modalidad; set => modalidad = value; }
-
-        public Actividad(int id, int cupos, string descripcion,string modalidad)
-        {
-            this.cupos = cupos;
-            this.descripcion = descripcion;
-            this.modalidad = modalidad;
-           
-        }
-
-        public  Actividad(int cupos, string descripcion,string modalidad)
-        {
-            this.cupos = cupos;
-            this.descripcion = descripcion;
-            this.modalidad = modalidad;
-        }
-        public Actividad() { }
-
-
+    public Actividad(int id, int cupos, string descripcion, string modalidad) {
+      this._cupos = cupos;
+      this._descripcion = descripcion;
+      this._modalidad = modalidad;
 
     }
+
+    public Actividad(int cupos, string descripcion, string modalidad) {
+      this._cupos = cupos;
+      this._descripcion = descripcion;
+      this._modalidad = modalidad;
+    }
+    public Actividad() { }
+
+
+
+  }
 }

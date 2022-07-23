@@ -9,3 +9,14 @@ C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\D
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csproj.CopyComplete
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.dll
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Control.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Control.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Data.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Model.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Data.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\bin\Debug\Model.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\Control\obj\Debug\Control.pdb

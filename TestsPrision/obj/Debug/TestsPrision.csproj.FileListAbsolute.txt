@@ -25,3 +25,7 @@ C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.csproj.CopyComplete
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.dll
 C:\Users\Alfredo\Desktop\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.pdb
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.csproj.AssemblyReference.cache
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.csproj.CoreCompileInputs.cache
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.dll
+C:\Users\giamp\Desktop\Ingeniería_SOFTWARE\8vo-semestre\VaeridicacionValidacionSoftware\Proyectovvs\ProyectoPrisionSexto\ProyectoPrisionSexto\TestsPrision\obj\Debug\TestsPrision.pdb

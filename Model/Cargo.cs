@@ -1,31 +1,46 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Model
-{
-    public class Cargo
-    {
-        private string descripcion;
-        private string delito;
-        private int id;
-        private Lugar lugarHechos;
-        private DateTime fechaHechos;
-        public Cargo(string descripcion, string delito, int id, Lugar lugarHechos, DateTime fechaHechos)
-        {
-            this.descripcion = descripcion;
-            this.delito = delito;
-            this.id = id;
-            this.lugarHechos = lugarHechos;
-            this.fechaHechos = fechaHechos;
-        }
-        public Cargo() { }
-        public string Descripcion { get => descripcion; set => descripcion = value; }
-        public string Delito { get => delito; set => delito = value; }
-        public int Id { get => id; set => id = value; }
-        public Lugar LugarHechos { get => lugarHechos; set => lugarHechos = value; }
-        public DateTime FechaHechos { get => fechaHechos; set => fechaHechos = value; }
+namespace Model {
+
+  /// <summary>
+  /// Cargo penal por el cual el preso está cumpliendo sentencia.
+  /// </summary>
+  public class Cargo {
+    /// <summary>
+    /// Nombre o descrípción del cargo penal.
+    /// </summary>
+    private string _descripcion;
+    /// <summary>
+    /// Delito tipificado que se cometió.
+    /// </summary>
+    private string _delito;
+    /// <summary>
+    /// Es el identificador del cargo dado por la BD.
+    /// </summary>
+    private int _id;
+    /// <summary>
+    /// Lugar donde se cometió el delito o crimen.
+    /// </summary>
+    private Lugar _lugarHechos;
+    /// <summary>
+    /// Fecha en la que se cometió el delito o crimen.
+    /// </summary>
+    private DateTime _fechaHechos;
+
+    public string Descripcion { get => _descripcion; set => _descripcion = value; }
+    public string Delito { get => _delito; set => _delito = value; }
+    public int Id { get => _id; set => _id = value; }
+    public Lugar LugarHechos { get => _lugarHechos; set => _lugarHechos = value; }
+    public DateTime FechaHechos { get => _fechaHechos; set => _fechaHechos = value; }
+
+    public Cargo(string descripcion, string delito, int id, Lugar lugarHechos, DateTime fechaHechos) {
+      this._descripcion = descripcion;
+      this._delito = delito;
+      this._id = id;
+      this._lugarHechos = lugarHechos;
+      this._fechaHechos = fechaHechos;
     }
+    public Cargo() { }
+    
+  }
 }

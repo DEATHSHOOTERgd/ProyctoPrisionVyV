@@ -1,24 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Model {
 
-namespace Model
-{
-    public class ActividadPractica : Actividad
-    {
-        private int remisionDiaria;
-        public ActividadPractica(int cupos, string descripcion,string modalidad, int remisionDiaria) : base(cupos, descripcion,modalidad)
-        {
-            this.remisionDiaria = remisionDiaria;
-        }
+  /// <summary>
+  /// Estas actividades consisten en trabajos que los presos realizan dentro de la prisión y su redención se aplica cada día de trabajo culminado.
+  /// </summary>
+  public class ActividadPractica : Actividad {
+    /// <summary>
+    /// Horas que se reducen de la condena por cada día laborado.
+    /// </summary>
+    private int _remisionDiaria;
 
-        public ActividadPractica(int id, int cupos, string descripcion,string modalidad,int remisionDiaria) : base(id, cupos, descripcion,modalidad)
-        {
-            this.remisionDiaria = remisionDiaria;
-        }
-        public ActividadPractica() { }
-        public int RemisionDiaria { get => remisionDiaria; set => remisionDiaria = value; }
+    public int RemisionDiaria { get => _remisionDiaria; set => _remisionDiaria = value; }
+    public ActividadPractica(int cupos, string descripcion, string modalidad, int remisionDiaria) : base(cupos, descripcion, modalidad) {
+      this._remisionDiaria = remisionDiaria;
     }
+    public ActividadPractica(int id, int cupos, string descripcion, string modalidad, int remisionDiaria) : base(id, cupos, descripcion, modalidad) {
+      this._remisionDiaria = remisionDiaria;
+    }
+    public ActividadPractica() { }
+  }
 }
