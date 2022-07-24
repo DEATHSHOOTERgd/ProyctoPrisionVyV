@@ -1,1 +1,1 @@
-search_result['389']=["topic_00000000000000B8.html","DatosActividadPractica.ConsultarActvidadPractica Method","Consulta todas las actividades prácticas registradas en la base de datos."];
+search_result['389']=["topic_00000000000000AA_vars--.html","CedulaRepetidaException Fields",""];

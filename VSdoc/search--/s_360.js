@@ -1,1 +1,1 @@
-search_result['360']=["topic_00000000000000AA_vars--.html","CedulaRepetidaException Fields",""];
+search_result['360']=["topic_000000000000009C.html","ControlCursosCurricular.EliminarEstudio Method","Metodo que se encarga de eliminar un curso especifico"];

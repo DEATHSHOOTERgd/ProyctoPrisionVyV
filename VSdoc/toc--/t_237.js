@@ -1,1 +1,0 @@
-c['237']=[['238',"EstudioRegistro Constructor","topic_000000000000000F.html",0],['239',"Methods","topic_000000000000000E_methods--.html",1]];

@@ -1,1 +1,1 @@
-c['216']=[['217',"ConsultarActividadCurricular_Exitoso Method","topic_00000000000000DD.html",0],['218',"EliminarActividadCurricular_Exitoso Method","topic_00000000000000DE.html",0],['219',"GuardarActividadCurricular_Exitoso Method","topic_00000000000000DC.html",0]];
+c['216']=[['217',"ActividadCurricularTest Class","topic_00000000000000DC.html",1],['222',"ActividadPracticaTest Class","topic_00000000000000E0.html",1],['227',"ReclusoTest Class","topic_00000000000000E4.html",1],['232',"UsuarioTest Class","topic_00000000000000E8.html",1]];

@@ -42,7 +42,7 @@
       this._contrasena = contrasena;
       this._rol = rol;
     }
-    public Usuario() {}
+    public Usuario() { }
     public Usuario(string nombres, string apellidos, string username, string contrasena, Rol rol) {
       this._nombres = nombres;
       this._apellidos = apellidos;

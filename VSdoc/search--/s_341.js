@@ -1,1 +1,1 @@
-search_result['341']=["topic_00000000000000A0_attached_props--.html","ControlRecluso Attached Properties",""];
+search_result['341']=["topic_0000000000000093.html","ControladorUsuario.ListarUsuarios Method","Lista a todos los datos de usuarios del sistema."];

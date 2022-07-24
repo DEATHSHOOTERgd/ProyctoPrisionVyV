@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>DatosLogin.ConsultarUsuario Method</title>
+	<title>DatosLogin.Consultar Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">DatosLogin.ConsultarUsuario Method</h1>
+		<h1 class="title">DatosLogin.Consultar Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000AF.html">Data</a>
+<a href="topic_00000000000000B0.html">Data</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Busca un &lt;seealso cref=&quot;Usuario&quot; /&gt; específico en la base de datos.</summary-info>
+        <summary-info>Consulta todos los usuarios del sistema.</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function ConsultarUsuario( _&nbsp;<br />   ByVal <i>username</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a> _&nbsp;<br />) As <a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Function Consultar() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>(Of <a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a>)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a> ConsultarUsuario(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>username</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a>&gt; Consultar()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a>^ ConsultarUsuario(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ <i>username</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a>^&gt;^ Consultar() </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function ConsultarUsuario(&nbsp;<br />    <i>username</i> : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>&nbsp;<br />) : <a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a>;</pre>			
+					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,28 +268,12 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="username" class="parameterList">
-	<dt>
-		<span class="parameter">
-			username
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
-	</dd>
-</dl>
-<p>
-	Es el nombre de usuario del &lt;seealso cref=&quot;Usuario&quot; /&gt; a buscar. 
-</p>
-
-<p />
 
 	<h4 class="subHeading">
 		Return Value</h4>
-	<a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a> 
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000007E.html" onclick="this.target='';return true;">Usuario</a>&gt; 
 		<p>
-		Un &lt;seealso cref=&quot;Usuario&quot; /&gt; cuyo nombre de usuario coincida con el <i>username</i>, si no se encuentra al usuario devuelve null. 
+		Una lista con todos los usuarios registrados en el sistema. 
 	</p>
 	
 
@@ -311,39 +295,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Exceptions</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="exceptionsSection" class="section">	
-	<table>
-		<tr>
-			<th>
-				Exception type
-			</th>
-			<th>
-				Condition
-			</th>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="topic_00000000000000D7.html">ConsultaFallida</a>
-
-				</p>
-			</td>
-			<td>
-				<p>
-					Cuando se da un error al consultar la base de datos. 
-				</p>
-			</td>
-		</tr>
-			
-	</table>
-	</div>
-</div>
 
 
 
@@ -412,20 +363,14 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000C4.html">DatosLogin Class</a><br />
+			<a href="topic_00000000000000C5.html">DatosLogin Class</a><br />
 
 
 
-<a href="topic_00000000000000AF.html">Data Namespace</a><br />
+<a href="topic_00000000000000B0.html">Data Namespace</a><br />
 
 
 			
-<a href="topic_000000000000007E.html">Usuario</a>
-<br />
-<a href="topic_000000000000007E.html">Usuario</a>
-<br />
-<a href="topic_000000000000007E.html">Usuario</a>
-<br />
 
 		</div>
 	</div>					

@@ -1,1 +1,1 @@
-c['286']=[['287',"Dispose Method","topic_0000000000000025.html",0]];
+c['286']=[['287',"FrmConsultarUsuario Constructor","topic_0000000000000024.html",0],['288',"Methods","topic_0000000000000023_methods--.html",1]];

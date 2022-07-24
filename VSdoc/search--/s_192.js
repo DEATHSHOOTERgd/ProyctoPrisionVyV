@@ -1,1 +1,1 @@
-search_result['192']=["topic_0000000000000051.html","Expediente(Int32, String) Constructor",""];
+search_result['192']=["topic_000000000000004F.html","Expediente Class","Es el expediente de un recluso son su código y lista de cargos vigentes, por los cuale se encuentra cumpliendo condena."];

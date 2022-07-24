@@ -1,1 +1,1 @@
-search_result['43']=["topic_0000000000000011_attached_props--.html","PrincipalAdministrador Attached Properties",""];
+search_result['43']=["topic_0000000000000010.html","EstudioRegistro.Dispose Method","Clean up any resources being used."];

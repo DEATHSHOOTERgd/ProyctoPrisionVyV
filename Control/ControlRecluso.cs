@@ -20,7 +20,7 @@ namespace Control {
     /// Instancia de <see cref="Recluso"/> sirve como auxiliar para los métodos de control.
     /// </summary>
     private Recluso _recluso = null;
-    
+
     /// <summary>
     /// Valida que no exista un <see cref="Recluso"> con el mismo <paramref name="codigo"/> registrado.
     /// </summary>

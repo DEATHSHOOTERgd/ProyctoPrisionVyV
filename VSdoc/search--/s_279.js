@@ -1,1 +1,1 @@
-search_result['279']=["topic_000000000000007B.html","Rol(String) Constructor",""];
+search_result['279']=["topic_0000000000000076.html","Recluso Constructor",""];

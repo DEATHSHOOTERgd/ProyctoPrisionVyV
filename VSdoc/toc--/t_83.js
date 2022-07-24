@@ -1,1 +1,1 @@
-c['83']=[['84',"ActualizarRecluso Method","topic_00000000000000D2.html",0],['85',"BuscarExpediente Method","topic_00000000000000CD.html",0],['86',"BuscarRecluso Method","topic_00000000000000D1.html",0],['87',"ConsultarCargos Method","topic_00000000000000D0.html",0],['88',"ConsultarReclusos Method","topic_00000000000000CF.html",0],['89',"InsertarRecluso Method","topic_00000000000000CE.html",0]];
+c['83']=[['84',"DatosRecluso Constructor","topic_00000000000000CD.html",0],['85',"Methods","topic_00000000000000CC_methods--.html",1]];

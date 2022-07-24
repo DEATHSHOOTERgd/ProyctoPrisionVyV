@@ -1,1 +1,1 @@
-search_result['133']=["topic_0000000000000037.html","ActividadCurricular(Int32, String, String, Int32, DateTime, DateTime) Constructor",""];
+search_result['133']=["topic_0000000000000036.html","ActividadCurricular.FechaInicio Property",""];

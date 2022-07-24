@@ -1,1 +1,1 @@
-search_result['339']=["topic_000000000000009F.html","ControlCursosCurricular.FiltrarDescripcionModalidad Method","Metodo que se encarga de buscar cursos a partir de su descripcion y modalidad."];
+search_result['339']=["topic_0000000000000091.html","role Field","Instancia de Rol sirve como auxiliar para los métodos de control."];

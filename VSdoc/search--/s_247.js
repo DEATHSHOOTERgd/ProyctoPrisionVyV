@@ -1,1 +1,1 @@
-search_result['247']=["topic_000000000000006B.html","Persona(Int32, String, String, String, String, DateTime, String) Constructor",""];
+search_result['247']=["topic_0000000000000067.html","Lugar.NombrePais Property",""];

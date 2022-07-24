@@ -62,6 +62,26 @@
   <string>customTopics</string>
   <string>ListNamespacesWithShortNames</string>
   <string>emptyOutputFolder</string>
+  <string>comPublic</string>
+  <string>comPrivate</string>
+  <string>comFriend</string>
+  <string>comProtected</string>
+  <string>comProtectedFriend</string>
+  <string>comPrivateProtected</string>
+  <string>comConstant</string>
+  <string>comEvent</string>
+  <string>comMethod</string>
+  <string>comStdModule</string>
+  <string>comObject</string>
+  <string>comForm</string>
+  <string>comProperty</string>
+  <string>comVariable</string>
+  <string>comEnumeration</string>
+  <string>comStructure</string>
+  <string>comDelegate</string>
+  <string>comInterface</string>
+  <string>comEventDecl</string>
+  <string>comDeclare</string>
 </ArrayOfString>]]></add>
       <add key="VBdocman_pageFooterText"><![CDATA[Generated with <see href="http://www.helixoft.com/vsdocman/overview.html">VSdocman</see>]]></add>
       <add key="VBdocman_comConstant"><![CDATA[-1]]></add>

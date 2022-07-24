@@ -1,1 +1,1 @@
-search_result['313']=["topic_000000000000008F.html","ControlActividadPractica.FiltrarDescripcionModalidad Method","Metodo que se encarga de buscar actividades a partir de su descripcion y modalidad."];
+search_result['313']=["topic_0000000000000084.html","Usuario.Rol Property",""];

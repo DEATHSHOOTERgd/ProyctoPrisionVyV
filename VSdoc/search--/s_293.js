@@ -1,1 +1,1 @@
-search_result['293']=["topic_0000000000000081.html","Usuario(String, String, String, String, Rol) Constructor",""];
+search_result['293']=["topic_000000000000007B.html","Rol(Int32, String) Constructor",""];

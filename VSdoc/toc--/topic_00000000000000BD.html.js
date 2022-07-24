@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['48',"Data Namespace","topic_00000000000000AF.html"],['64',"DatosCursoCurricular Class","topic_00000000000000BC.html"],['65',"DatosCursoCurricular Constructor","topic_00000000000000BD.html"]];
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000ED.html"],['50',"Data Namespace","topic_00000000000000B0.html"],['66',"DatosCursoCurricular Class","topic_00000000000000BD.html"]];

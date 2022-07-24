@@ -1,1 +1,1 @@
-c['93']=[['94',"Mensaje Property","topic_00000000000000D6.html",0]];
+c['93']=[['94',"ConexionFallida Constructor","topic_00000000000000D6.html",0],['95',"Properties","topic_00000000000000D5_props--.html",1]];

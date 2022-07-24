@@ -1,1 +1,1 @@
-search_result['321']=["topic_0000000000000092.html","ControladorUsuario.ListarUsuarios Method","Lista a todos los datos de usuarios del sistema."];
+search_result['321']=["topic_0000000000000089.html","ControlActividadPractica Class","Controlador que gestiona la información de \u003cseealso cref=\"ActividadPractica\" /\u003e."];

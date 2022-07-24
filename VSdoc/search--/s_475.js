@@ -1,1 +1,1 @@
-search_result['475']=["topic_00000000000000E6.html","ReclusoTest.BuscarRecluso_Exitoso Method","CP-04"];
+search_result['475']=["topic_00000000000000C9.html","DatosLogin.ActualizarUsuario Method","Actualiza toods los datos de un \u003cseealso cref=\"Usuario\" /\u003e específico, a excepción del nombre de usuario, en la tabla de usuarios en la base de datos."];

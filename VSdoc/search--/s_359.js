@@ -1,1 +1,1 @@
-search_result['359']=["topic_00000000000000AA_props--.html","CedulaRepetidaException Properties",""];
+search_result['359']=["topic_000000000000009B.html","ControlCursosCurricular.GuardarEstudio Method","Metodo que se encarga de guardar el curso."];

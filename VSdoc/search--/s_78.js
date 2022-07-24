@@ -1,1 +1,1 @@
-search_result['78']=["topic_0000000000000020_events--.html","FrmActualizarUsuario Events",""];
+search_result['78']=["topic_0000000000000020.html","FrmActualizarUsuario Class",""];

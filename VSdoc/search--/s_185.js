@@ -1,1 +1,1 @@
-search_result['185']=["topic_000000000000004F_attached_props--.html","Expediente Attached Properties",""];
+search_result['185']=["topic_000000000000004D.html","EquipoTrabajo Class","Es el grupo de trabajo que participa en una actividad práctica."];

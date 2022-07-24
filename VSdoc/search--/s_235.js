@@ -1,1 +1,1 @@
-search_result['235']=["topic_0000000000000066.html","Lugar.NombreCiudad Property",""];
+search_result['235']=["topic_0000000000000060.html","Jornada.Dia Property",""];

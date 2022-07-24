@@ -1,1 +1,1 @@
-search_result['269']=["topic_0000000000000078.html","Rol Class",""];
+search_result['269']=["topic_0000000000000072.html","Recluso Class","Almacena los datos de un recluso."];

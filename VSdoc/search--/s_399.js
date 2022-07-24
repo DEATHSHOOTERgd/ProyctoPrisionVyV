@@ -1,1 +1,1 @@
-search_result['399']=["topic_00000000000000BD.html","DatosCursoCurricular Constructor","Inicializa la Conexion."];
+search_result['399']=["topic_00000000000000AD_events--.html","GeneralExcepcion Events",""];

@@ -1,1 +1,1 @@
-search_result['381']=["topic_00000000000000B4_attached_props--.html","DatosActividadPractica Attached Properties",""];
+search_result['381']=["topic_00000000000000A7.html","ControlRecluso.ValidarRecluso Method","Valida que no exista un Recluso con la misma cedula."];

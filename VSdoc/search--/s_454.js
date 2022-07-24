@@ -1,1 +1,1 @@
-search_result['454']=["topic_00000000000000DB_vars--.html","ActividadCurricularTest Fields",""];
+search_result['454']=["topic_00000000000000BE.html","DatosCursoCurricular Constructor","Inicializa la Conexion."];

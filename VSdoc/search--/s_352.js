@@ -1,1 +1,1 @@
-search_result['352']=["topic_00000000000000A7.html","ControlRecluso.ListarCargos Method","Lista los Cargos de un Expediente cuyo código coincida con codigoExpediente."];
+search_result['352']=["topic_0000000000000099_vars--.html","ControlCursosCurricular Fields",""];

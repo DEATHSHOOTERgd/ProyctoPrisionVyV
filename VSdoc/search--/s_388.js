@@ -1,1 +1,1 @@
-search_result['388']=["topic_00000000000000B7.html","DatosActividadPractica.EliminarActividad Method","Eliina un registro de \u003cseealso cref=\"ActividadPractica\" /\u003e de la base de datos del sistema cuya descripcion y modalidad coincidan."];
+search_result['388']=["topic_00000000000000AA_props--.html","CedulaRepetidaException Properties",""];

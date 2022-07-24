@@ -1,1 +1,1 @@
-search_result['459']=["topic_00000000000000DF_attached_props--.html","ActividadPracticaTest Attached Properties",""];
+search_result['459']=["topic_00000000000000C3.html","DatosCursoCurricular.BuscarModalidadEstudio Method","Busca una \u003cseealso cref=\"ActividadCurricular\" /\u003e específica en la base de datos."];

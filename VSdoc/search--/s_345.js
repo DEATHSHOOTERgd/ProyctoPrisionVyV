@@ -1,1 +1,1 @@
-search_result['345']=["topic_00000000000000A0_vars--.html","ControlRecluso Fields",""];
+search_result['345']=["topic_0000000000000097.html","ControladorUsuario.usuarioRepetido Method","Valida que no exista un usuario con el mismo nombre de usuario(usuario) registrado."];

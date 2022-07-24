@@ -34,7 +34,7 @@ namespace Model {
     public DateTime Fecha { get => _fecha; set => _fecha = value; }
     public int CodigoInscripcion { get => _codigoInscripcion; set => _codigoInscripcion = value; }
 
-    public Inscripcion() {}
+    public Inscripcion() { }
 
     public Inscripcion(int id, Recluso recluso, Actividad actividad, DateTime fecha, int codigoInscripcion) {
       this._id = id;

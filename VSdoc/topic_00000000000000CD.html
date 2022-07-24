@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>DatosRecluso.BuscarExpediente Method</title>
+	<title>DatosRecluso Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">DatosRecluso.BuscarExpediente Method</h1>
+		<h1 class="title">DatosRecluso Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000AF.html">Data</a>
+<a href="topic_00000000000000B0.html">Data</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Busca un &lt;seealso cref=&quot;Expediente&quot; /&gt; específico en la base de datos.</summary-info>
+        <summary-info>Inicializa la <a target="_top" href="topic_00000000000000B1.html" onclick="this.target='';return true;">Conexion</a>.</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function BuscarExpediente( _&nbsp;<br />   ByVal <i>cedula</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a> _&nbsp;<br />) As <a target="_top" href="topic_000000000000004F.html" onclick="this.target='';return true;">Expediente</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="topic_000000000000004F.html" onclick="this.target='';return true;">Expediente</a> BuscarExpediente(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>cedula</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public DatosRecluso()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="topic_000000000000004F.html" onclick="this.target='';return true;">Expediente</a>^ BuscarExpediente(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ <i>cedula</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />DatosRecluso() </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function BuscarExpediente(&nbsp;<br />    <i>cedula</i> : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>&nbsp;<br />) : <a target="_top" href="topic_000000000000004F.html" onclick="this.target='';return true;">Expediente</a>;</pre>			
+					<pre xml:space="preserve" class="brush: js">public function DatosRecluso();</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,30 +268,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="cedula" class="parameterList">
-	<dt>
-		<span class="parameter">
-			cedula
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
-	</dd>
-</dl>
-<p>
-	Es la cédula de &lt;seealso cref=&quot;Recluso&quot; /&gt; cuyo &lt;seealso cref=&quot;Expediente&quot; /&gt; se va a consultar. 
-</p>
 
-<p />
-
-	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="topic_000000000000004F.html" onclick="this.target='';return true;">Expediente</a> 
-		<p>
-		Un &lt;seealso cref=&quot;Expediente&quot; /&gt; cuya cédula coincida con <i>cedula</i>, si no se encuentra al expediente devuelve null. 
-	</p>
-	
 
 
 
@@ -311,39 +288,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Exceptions</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="exceptionsSection" class="section">	
-	<table>
-		<tr>
-			<th>
-				Exception type
-			</th>
-			<th>
-				Condition
-			</th>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="topic_00000000000000D7.html">ConsultaFallida</a>
-
-				</p>
-			</td>
-			<td>
-				<p>
-					Cuando se da un error al consultar la base de datos. 
-				</p>
-			</td>
-		</tr>
-			
-	</table>
-	</div>
-</div>
 
 
 
@@ -412,22 +356,14 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000CB.html">DatosRecluso Class</a><br />
+			<a href="topic_00000000000000CC.html">DatosRecluso Class</a><br />
 
 
 
-<a href="topic_00000000000000AF.html">Data Namespace</a><br />
+<a href="topic_00000000000000B0.html">Data Namespace</a><br />
 
 
 			
-<a href="topic_000000000000004F.html">Expediente</a>
-<br />
-<a href="topic_000000000000004F.html">Expediente</a>
-<br />
-<a href="topic_000000000000004F.html">Expediente</a>
-<br />
-<a href="topic_0000000000000072.html">Recluso</a>
-<br />
 
 		</div>
 	</div>					

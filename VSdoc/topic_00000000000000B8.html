@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>DatosActividadPractica.ConsultarActvidadPractica Method</title>
+	<title>DatosActividadPractica.EliminarActividad Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">DatosActividadPractica.ConsultarActvidadPractica Method</h1>
+		<h1 class="title">DatosActividadPractica.EliminarActividad Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000AF.html">Data</a>
+<a href="topic_00000000000000B0.html">Data</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Consulta todas las actividades prácticas registradas en la base de datos.</summary-info>
+        <summary-info>Eliina un registro de &lt;seealso cref=&quot;ActividadPractica&quot; /&gt; de la base de datos del sistema cuya <i>descripcion</i> y <i>modalidad</i> coincidan.</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function ConsultarActvidadPractica() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>(Of <a target="_top" href="topic_000000000000003C.html" onclick="this.target='';return true;">ActividadPractica</a>)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub EliminarActividad( _&nbsp;<br />   ByVal <i>descripcion</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>, _&nbsp;<br />   ByVal <i>modalidad</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000003C.html" onclick="this.target='';return true;">ActividadPractica</a>&gt; ConsultarActvidadPractica()</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.void">void</a> EliminarActividad(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>descripcion</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>modalidad</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000003C.html" onclick="this.target='';return true;">ActividadPractica</a>^&gt;^ ConsultarActvidadPractica() </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.void">void</a> EliminarActividad(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ <i>descripcion</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ <i>modalidad</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
+					<pre xml:space="preserve" class="brush: js">public function EliminarActividad(&nbsp;<br />    <i>descripcion</i> : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>,&nbsp;<br />    <i>modalidad</i> : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>&nbsp;<br />);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,14 +268,36 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="descripcion" class="parameterList">
+	<dt>
+		<span class="parameter">
+			descripcion
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
+	</dd>
+</dl>
+<p>
+	Nombre de la &lt;seealso cref=&quot;ActividadPractica&quot; /&gt;. 
+</p>
+<dl paramName="modalidad" class="parameterList">
+	<dt>
+		<span class="parameter">
+			modalidad
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
+	</dd>
+</dl>
+<p>
+	Modalidad en que se realiza la &lt;seealso cref=&quot;ActividadPractica&quot; /&gt;. 
+</p>
 
-	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000003C.html" onclick="this.target='';return true;">ActividadPractica</a>&gt; 
-		<p>
-		Una lista con todas las actividades prácticas registradas en el sistema. 
-	</p>
-	
+<p />
+
 
 
 
@@ -314,7 +336,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 		<tr>
 			<td>
 				<p>
-<a href="topic_00000000000000D7.html">ConsultaFallida</a>
+<a href="topic_00000000000000D8.html">ConsultaFallida</a>
 
 				</p>
 			</td>
@@ -396,14 +418,20 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000B4.html">DatosActividadPractica Class</a><br />
+			<a href="topic_00000000000000B5.html">DatosActividadPractica Class</a><br />
 
 
 
-<a href="topic_00000000000000AF.html">Data Namespace</a><br />
+<a href="topic_00000000000000B0.html">Data Namespace</a><br />
 
 
 			
+<a href="topic_000000000000003C.html">ActividadPractica</a>
+<br />
+<a href="topic_000000000000003C.html">ActividadPractica</a>
+<br />
+<a href="topic_000000000000003C.html">ActividadPractica</a>
+<br />
 
 		</div>
 	</div>					

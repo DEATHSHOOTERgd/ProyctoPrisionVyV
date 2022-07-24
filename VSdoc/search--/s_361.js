@@ -1,1 +1,1 @@
-search_result['361']=["topic_00000000000000AB.html","CedulaRepetidaException Constructor",""];
+search_result['361']=["topic_000000000000009D.html","ControlCursosCurricular.FiltrarDesccripcion Method","Metodo que se encarga de buscar cursos a partir de una descripcion."];

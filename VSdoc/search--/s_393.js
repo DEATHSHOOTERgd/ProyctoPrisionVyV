@@ -1,1 +1,1 @@
-search_result['393']=["topic_00000000000000BC.html","DatosCursoCurricular Class","Esta clase permite el acceso a los datos de ActividadCurricular en la base de datos del sistema."];
+search_result['393']=["topic_00000000000000AB_methods--.html","CedulaRepetidaException Methods",""];

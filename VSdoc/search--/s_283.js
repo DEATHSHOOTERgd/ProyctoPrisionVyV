@@ -1,1 +1,1 @@
-search_result['283']=["topic_000000000000007E.html","Usuario Class",""];
+search_result['283']=["topic_0000000000000078.html","Rol Class","Clasificación de un usuraio según sus responsabilidades y permisos."];

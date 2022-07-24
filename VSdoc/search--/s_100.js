@@ -1,1 +1,1 @@
-search_result['100']=["topic_0000000000000029.html","FrmRegistrarUsuario Class",""];
+search_result['100']=["topic_0000000000000027.html","FrmConsultaToActualizar Constructor",""];

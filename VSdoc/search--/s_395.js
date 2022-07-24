@@ -1,1 +1,1 @@
-search_result['395']=["topic_00000000000000BC_events--.html","DatosCursoCurricular Events",""];
+search_result['395']=["topic_00000000000000AB_vars--.html","CedulaRepetidaException Fields",""];

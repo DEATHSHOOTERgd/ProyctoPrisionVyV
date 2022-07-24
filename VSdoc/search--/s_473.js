@@ -1,1 +1,1 @@
-search_result['473']=["topic_00000000000000E4.html","ReclusoTest.GuardarRecluso_Exitoso Method","CP-02"];
+search_result['473']=["topic_00000000000000C7.html","DatosLogin.Consultar Method","Consulta todos los usuarios del sistema."];

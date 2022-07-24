@@ -1,1 +1,1 @@
-search_result['59']=["topic_0000000000000019.html","FrmExpedienteRecluso Class",""];
+search_result['59']=["topic_0000000000000017.html","FrmConsultarRecluso Constructor",""];

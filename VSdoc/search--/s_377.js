@@ -1,1 +1,1 @@
-search_result['377']=["topic_00000000000000B1.html","Conexion.Cn Property",""];
+search_result['377']=["topic_00000000000000A3.html","ControlRecluso.buscarExpediente Method","Busca busca el expediente del recluso cuya cpedula coincida con cedula."];

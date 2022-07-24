@@ -1,1 +1,1 @@
-search_result['36']=["topic_000000000000000E_events--.html","EstudioRegistro Events",""];
+search_result['36']=["topic_000000000000000E.html","EstudioRegistro Class",""];

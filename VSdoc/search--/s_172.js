@@ -1,1 +1,1 @@
-search_result['172']=["topic_0000000000000049_props--.html","Curso Properties",""];
+search_result['172']=["topic_0000000000000047.html","Cargo(String, String, Int32, Lugar, DateTime) Constructor",""];

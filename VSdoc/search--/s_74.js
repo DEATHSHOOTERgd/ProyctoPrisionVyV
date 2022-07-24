@@ -1,1 +1,1 @@
-search_result['74']=["topic_000000000000001E.html","FrmIngresarRecluso.Dispose Method","Clean up any resources being used."];
+search_result['74']=["topic_000000000000001C_vars--.html","FrmIngresarRecluso Fields",""];

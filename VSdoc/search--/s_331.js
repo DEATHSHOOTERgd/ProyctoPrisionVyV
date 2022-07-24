@@ -1,1 +1,1 @@
-search_result['331']=["topic_0000000000000099_methods--.html","ControlCursosCurricular Methods",""];
+search_result['331']=["topic_000000000000008E.html","ControlActividadPractica.FiltrarModalidad Method","Metodo que se encarga de buscar actividades a partir de su modalidad."];

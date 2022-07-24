@@ -1,1 +1,1 @@
-search_result['41']=["topic_0000000000000010.html","EstudioRegistro.Dispose Method","Clean up any resources being used."];
+search_result['41']=["topic_000000000000000E_vars--.html","EstudioRegistro Fields",""];

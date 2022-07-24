@@ -1,1 +1,1 @@
-search_result['344']=["topic_00000000000000A0_props--.html","ControlRecluso Properties",""];
+search_result['344']=["topic_0000000000000096.html","ControladorUsuario.RetornaRol Method","Busca un el rol de un usuario especúƒico que coincida con el usuario ingresado."];

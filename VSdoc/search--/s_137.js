@@ -1,1 +1,1 @@
-search_result['137']=["topic_0000000000000039.html","ActividadCurricular.FechaInicio Property",""];
+search_result['137']=["topic_0000000000000038.html","ActividadCurricular.RemisionTotal Property",""];

@@ -1,1 +1,1 @@
-search_result['254']=["topic_0000000000000071.html","Persona.Cedula Property",""];
+search_result['254']=["topic_0000000000000069.html","Persona.Nombre Property",""];

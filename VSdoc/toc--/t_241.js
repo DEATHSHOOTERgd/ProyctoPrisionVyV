@@ -1,1 +1,1 @@
-c['241']=[['242',"FrmDistancia Constructor","topic_0000000000000002.html",0],['243',"Methods","topic_0000000000000001_methods--.html",1]];
+c['241']=[['242',"Dispose Method","topic_0000000000000010.html",0]];

@@ -1,1 +1,1 @@
-search_result['327']=["topic_0000000000000098.html","ControladorUsuario.ObtenerRol Method","Busca un rol cuya descripción coincida con rol."];
+search_result['327']=["topic_000000000000008A.html","ControlActividadPractica.ListarActividadesPracticas Method","Metodo que se encarga de consultar actividades existentes."];

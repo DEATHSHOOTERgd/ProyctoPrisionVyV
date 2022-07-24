@@ -1,1 +1,1 @@
-search_result['129']=["topic_0000000000000035_props--.html","ActividadCurricular Properties",""];
+search_result['129']=["topic_0000000000000035_events--.html","ActividadCurricular Events",""];

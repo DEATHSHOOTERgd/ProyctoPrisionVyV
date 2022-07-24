@@ -1,1 +1,1 @@
-c['50']=[['51',"Cn Property","topic_00000000000000B1.html",0]];
+c['50']=[['51',"Conexion Class","topic_00000000000000B1.html",1],['57',"DatosActividadPractica Class","topic_00000000000000B5.html",1],['66',"DatosCursoCurricular Class","topic_00000000000000BD.html",1],['75',"DatosLogin Class","topic_00000000000000C5.html",1],['83',"DatosRecluso Class","topic_00000000000000CC.html",1]];

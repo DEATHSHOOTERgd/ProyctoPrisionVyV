@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['90',"Data.Excepciones Namespace","topic_00000000000000D3.html"]];
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000ED.html"],['50',"Data Namespace","topic_00000000000000B0.html"],['83',"DatosRecluso Class","topic_00000000000000CC.html"],['85',"Methods","topic_00000000000000CC_methods--.html"],['86',"ActualizarRecluso Method","topic_00000000000000D3.html"]];

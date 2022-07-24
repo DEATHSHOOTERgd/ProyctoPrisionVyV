@@ -1,1 +1,1 @@
-search_result['72']=["topic_000000000000001C_vars--.html","FrmIngresarRecluso Fields",""];
+search_result['72']=["topic_000000000000001C_methods--.html","FrmIngresarRecluso Methods",""];

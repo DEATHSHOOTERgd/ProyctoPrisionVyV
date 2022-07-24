@@ -1,1 +1,1 @@
-search_result['111']=["topic_000000000000002D_events--.html","Actividad Events",""];
+search_result['111']=["topic_000000000000002D.html","Actividad Class","Esta es la clase padre que representa las actividades en las que se pueden inscribir los reclusos dentro de la prisión."];

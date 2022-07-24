@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>GrupoActividad Constructor</title>
+	<title>GrupoActividad.Reclusos Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">GrupoActividad Constructor</h1>
+		<h1 class="title">GrupoActividad.Reclusos Property</h1>
         
 		<div class="metadata">
         Namespace:
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Protected Sub New( _&nbsp;<br />   ByVal <i>reclusos</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>(Of <a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>), _&nbsp;<br />   ByVal <i>horario</i> As <a target="_top" href="topic_000000000000005C.html" onclick="this.target='';return true;">Horario</a>, _&nbsp;<br />   ByVal <i>actividad</i> As <a target="_top" href="topic_000000000000002D.html" onclick="this.target='';return true;">Actividad</a> _&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Property Reclusos() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>(Of <a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">protected GrupoActividad(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>&gt; <i>reclusos</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000005C.html" onclick="this.target='';return true;">Horario</a> <i>horario</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000002D.html" onclick="this.target='';return true;">Actividad</a> <i>actividad</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>&gt; Reclusos {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">protected: &nbsp;<br />GrupoActividad(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>^&gt;^ <i>reclusos</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000005C.html" onclick="this.target='';return true;">Horario</a>^ <i>horario</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000002D.html" onclick="this.target='';return true;">Actividad</a>^ <i>actividad</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>^&gt;^ Reclusos {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>^&gt;^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>^&gt;^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,49 +267,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="reclusos" class="parameterList">
-	<dt>
-		<span class="parameter">
-			reclusos
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>&gt; 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="horario" class="parameterList">
-	<dt>
-		<span class="parameter">
-			horario
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_000000000000005C.html" onclick="this.target='';return true;">Horario</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="actividad" class="parameterList">
-	<dt>
-		<span class="parameter">
-			actividad
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_000000000000002D.html" onclick="this.target='';return true;">Actividad</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
 
-<p />
-
+	<h4 class="subHeading">
+		Property Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_0000000000000072.html" onclick="this.target='';return true;">Recluso</a>&gt; 
+	
 
 
 

@@ -1,1 +1,1 @@
-search_result['424']=["topic_00000000000000CC.html","DatosRecluso Constructor","Inicializa la Conexion."];
+search_result['424']=["topic_00000000000000B4.html","Conexion.Cerrar Method","Cierra la conexión con la base de datos."];

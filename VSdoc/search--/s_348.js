@@ -1,1 +1,1 @@
-search_result['348']=["topic_00000000000000A3.html","ControlRecluso.GuardarRecluso Method","Guarda los datos de un nuevo Recluso."];
+search_result['348']=["topic_0000000000000099_attached_props--.html","ControlCursosCurricular Attached Properties",""];

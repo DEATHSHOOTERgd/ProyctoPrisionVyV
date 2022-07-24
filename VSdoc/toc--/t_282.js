@@ -1,1 +1,1 @@
-c['282']=[['283',"Dispose Method","topic_0000000000000028.html",0]];
+c['282']=[['283',"FrmConsultaToActualizar Constructor","topic_0000000000000027.html",0],['284',"Methods","topic_0000000000000026_methods--.html",1]];

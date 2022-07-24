@@ -1,1 +1,1 @@
-search_result['221']=["topic_000000000000005F_methods--.html","Jornada Methods",""];
+search_result['221']=["topic_000000000000005C.html","Horario Class","Horario planificado para una actividad o equipo de trabajo."];

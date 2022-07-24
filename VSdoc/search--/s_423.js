@@ -1,1 +1,1 @@
-search_result['423']=["topic_00000000000000CB_vars--.html","DatosRecluso Fields",""];
+search_result['423']=["topic_00000000000000B3.html","Conexion.Conectar Method","Abre la conexión con la base de datos."];

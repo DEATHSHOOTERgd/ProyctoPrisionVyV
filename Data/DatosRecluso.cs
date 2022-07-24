@@ -148,7 +148,7 @@ namespace Data {
           cargos.Add(cargo);
         }
       } catch (SqlException) {
-        
+
         throw new ConsultaFallida();
       }
 

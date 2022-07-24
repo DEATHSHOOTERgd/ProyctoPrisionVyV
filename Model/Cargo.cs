@@ -41,6 +41,6 @@ namespace Model {
       this._fechaHechos = fechaHechos;
     }
     public Cargo() { }
-    
+
   }
 }

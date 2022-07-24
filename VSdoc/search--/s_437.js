@@ -1,1 +1,1 @@
-search_result['437']=["topic_00000000000000D4_vars--.html","ConexionFallida Fields",""];
+search_result['437']=["topic_00000000000000B7.html","DatosActividadPractica.InsertarActividad Method","Inserta una nueva \u003cseealso cref=\"ActividadPractica\" /\u003e(actividad) en la base de datos del sistema."];

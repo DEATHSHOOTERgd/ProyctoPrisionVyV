@@ -1,1 +1,1 @@
-c['31']=[['32',"Methods","topic_0000000000000090_methods--.html",1]];
+c['31']=[['32',"Methods","topic_0000000000000090_methods--.html",1],['41',"Fields","topic_0000000000000090_vars--.html",1]];

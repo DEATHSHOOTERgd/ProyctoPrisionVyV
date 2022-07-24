@@ -1,1 +1,1 @@
-search_result['397']=["topic_00000000000000BC_props--.html","DatosCursoCurricular Properties",""];
+search_result['397']=["topic_00000000000000AD.html","CedulaRepetidaException.Mensaje Property",""];

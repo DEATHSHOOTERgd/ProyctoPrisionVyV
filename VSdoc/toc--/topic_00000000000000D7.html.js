@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['90',"Data.Excepciones Namespace","topic_00000000000000D3.html"],['95',"ConsultaFallida Class","topic_00000000000000D7.html"]];
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000ED.html"],['92',"Data.Excepciones Namespace","topic_00000000000000D4.html"],['93',"ConexionFallida Class","topic_00000000000000D5.html"],['95',"Properties","topic_00000000000000D5_props--.html"],['96',"Mensaje Property","topic_00000000000000D7.html"]];

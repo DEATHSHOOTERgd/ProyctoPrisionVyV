@@ -1,1 +1,1 @@
-search_result['346']=["topic_00000000000000A1.html","ControlRecluso.existeCodigo Method",""];
+search_result['346']=["topic_0000000000000098.html","ControladorUsuario.GuardarUsuario Method","Guarda los datos de un nuevo Usuario."];

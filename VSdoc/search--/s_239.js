@@ -1,1 +1,1 @@
-search_result['239']=["topic_0000000000000068_events--.html","Persona Events",""];
+search_result['239']=["topic_0000000000000064.html","Lugar Class","Ubicación geográfica."];

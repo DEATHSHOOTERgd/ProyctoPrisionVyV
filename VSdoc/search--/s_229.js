@@ -1,1 +1,1 @@
-search_result['229']=["topic_0000000000000064_attached_props--.html","Lugar Attached Properties",""];
+search_result['229']=["topic_000000000000005F.html","Jornada Class","Horario diario contemplado para cierta actividad."];

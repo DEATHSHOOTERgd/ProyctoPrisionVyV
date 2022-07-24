@@ -1,1 +1,1 @@
-search_result['418']=["topic_00000000000000CB.html","DatosRecluso Class","Esta clase permite el acceso a los datos de Recluso en la base de datos del sistema."];
+search_result['418']=["topic_00000000000000B1_events--.html","Conexion Events",""];

@@ -1,1 +1,1 @@
-search_result['380']=["topic_00000000000000B4.html","DatosActividadPractica Class","Esta clase permite el acceso a los datos de ActividadPractica en la base de datos del sistema."];
+search_result['380']=["topic_00000000000000A6.html","ControlRecluso.BuscarRecluso Method","Busca un Recluso cuya cédula coincida con cedula."];

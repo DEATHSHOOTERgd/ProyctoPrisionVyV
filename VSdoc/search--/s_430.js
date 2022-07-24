@@ -1,1 +1,1 @@
-search_result['430']=["topic_00000000000000D2.html","DatosRecluso.ActualizarRecluso Method",""];
+search_result['430']=["topic_00000000000000B5.html","DatosActividadPractica Class","Esta clase permite el acceso a los datos de ActividadPractica en la base de datos del sistema."];

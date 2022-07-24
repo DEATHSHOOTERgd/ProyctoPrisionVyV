@@ -1,1 +1,1 @@
-search_result['483']=["topic_00000000000000E9.html","UsuarioTest.ValidarLogin_Exitoso Method","CP-01"];
+search_result['483']=["topic_00000000000000CC.html","DatosRecluso Class","Esta clase permite el acceso a los datos de Recluso en la base de datos del sistema."];

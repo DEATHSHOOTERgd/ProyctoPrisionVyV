@@ -1,1 +1,1 @@
-search_result['374']=["topic_00000000000000B0_methods--.html","Conexion Methods",""];
+search_result['374']=["topic_00000000000000A1_props--.html","ControlRecluso Properties",""];

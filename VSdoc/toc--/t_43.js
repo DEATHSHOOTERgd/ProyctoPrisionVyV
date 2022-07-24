@@ -1,1 +1,1 @@
-c['43']=[['44',"CedulaRepetidaException Class","topic_00000000000000AA.html",1]];
+c['43']=[['44',"GeneralExcepcion Constructor","topic_00000000000000AF.html",0]];

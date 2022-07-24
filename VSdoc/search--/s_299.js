@@ -1,1 +1,1 @@
-search_result['299']=["topic_0000000000000086.html","Usuario.Contrasena Property",""];
+search_result['299']=["topic_000000000000007E.html","Usuario Class","Almacena los datos de usuario de la aplicación, incluídas sus credenciales."];

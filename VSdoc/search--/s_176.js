@@ -1,1 +1,1 @@
-search_result['176']=["topic_000000000000004C.html","Curso.DiasDuracion Property",""];
+search_result['176']=["topic_0000000000000049.html","Curso Class","Es un curso asignado a de una actividad curricular"];

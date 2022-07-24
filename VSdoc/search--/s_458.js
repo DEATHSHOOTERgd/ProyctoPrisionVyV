@@ -1,1 +1,1 @@
-search_result['458']=["topic_00000000000000DF.html","ActividadPracticaTest Class",""];
+search_result['458']=["topic_00000000000000C2.html","DatosCursoCurricular.ConsultarCursosDistancia Method","Consulta todas las actividades curriculares registradas en la base de datos."];

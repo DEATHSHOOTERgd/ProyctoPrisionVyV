@@ -1,1 +1,1 @@
-search_result['347']=["topic_00000000000000A2.html","ControlRecluso.buscarExpediente Method","Busca busca el expediente del recluso cuya cpedula coincida con cedula."];
+search_result['347']=["topic_0000000000000099.html","ControladorUsuario.ObtenerRol Method","Busca un rol cuya descripción coincida con rol."];

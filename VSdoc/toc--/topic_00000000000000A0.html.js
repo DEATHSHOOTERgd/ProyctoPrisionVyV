@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['4',"Control Namespace","topic_0000000000000088.html"],['21',"ControlRecluso Class","topic_00000000000000A0.html"]];
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000ED.html"],['4',"Control Namespace","topic_0000000000000088.html"],['13',"ControlCursosCurricular Class","topic_000000000000009A.html"],['14',"Methods","topic_000000000000009A_methods--.html"],['20',"ListarCursosDistancia Method","topic_00000000000000A0.html"]];

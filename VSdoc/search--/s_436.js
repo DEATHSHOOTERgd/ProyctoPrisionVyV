@@ -1,1 +1,1 @@
-search_result['436']=["topic_00000000000000D4_props--.html","ConexionFallida Properties",""];
+search_result['436']=["topic_00000000000000B6.html","DatosActividadPractica Constructor","Inicializa la Conexion."];

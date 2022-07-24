@@ -1,1 +1,1 @@
-search_result['343']=["topic_00000000000000A0_methods--.html","ControlRecluso Methods",""];
+search_result['343']=["topic_0000000000000095.html","ControladorUsuario.ActualizarUsuario Method","Actualiza los datos de un Usuario en especúƒico."];

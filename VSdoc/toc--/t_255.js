@@ -1,1 +1,1 @@
-c['255']=[['256',"Dispose Method","topic_0000000000000013.html",0]];
+c['255']=[['256',"PrincipalAdministrador Constructor","topic_0000000000000012.html",0],['257',"Methods","topic_0000000000000011_methods--.html",1]];

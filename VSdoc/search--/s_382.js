@@ -1,1 +1,1 @@
-search_result['382']=["topic_00000000000000B4_events--.html","DatosActividadPractica Events",""];
+search_result['382']=["topic_00000000000000A8.html","ControlRecluso.ListarCargos Method","Lista los Cargos de un Expediente cuyo código coincida con codigoExpediente."];

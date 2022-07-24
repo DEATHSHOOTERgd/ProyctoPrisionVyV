@@ -1,1 +1,1 @@
-search_result['472']=["topic_00000000000000E3_vars--.html","ReclusoTest Fields",""];
+search_result['472']=["topic_00000000000000C6.html","DatosLogin Constructor","Inicializa la Conexion."];

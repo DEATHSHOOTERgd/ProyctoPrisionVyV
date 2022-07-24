@@ -1,1 +1,1 @@
-search_result['338']=["topic_000000000000009E.html","ControlCursosCurricular.FiltrarModalidad Method","Metodo que se encarga de buscar cursos a partir de su modalidad."];
+search_result['338']=["topic_0000000000000090_vars--.html","ControladorUsuario Fields",""];

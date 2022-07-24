@@ -1,1 +1,1 @@
-search_result['378']=["topic_00000000000000B2.html","Conexion.Conectar Method","Abre la conexión con la base de datos."];
+search_result['378']=["topic_00000000000000A4.html","ControlRecluso.GuardarRecluso Method","Guarda los datos de un nuevo Recluso."];

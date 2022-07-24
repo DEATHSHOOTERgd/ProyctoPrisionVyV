@@ -1,1 +1,1 @@
-search_result['457']=["topic_00000000000000DE.html","ActividadCurricularTest.EliminarActividadCurricular_Exitoso Method","CP-10"];
+search_result['457']=["topic_00000000000000C1.html","DatosCursoCurricular.BuscarDescripcionEstudio Method","Consulta la base de datos y trae las actividades que coincidan con la descripcion."];

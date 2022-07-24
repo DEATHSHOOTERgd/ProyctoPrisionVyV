@@ -1,1 +1,1 @@
-search_result['353']=["topic_00000000000000A8.html","ControlRecluso.ActualizarUsuario Method",""];
+search_result['353']=["topic_000000000000009A.html","ControlCursosCurricular Class","Controlador que gestiona la información de \u003cseealso cref=\"ActividadCurricular\" /\u003e."];

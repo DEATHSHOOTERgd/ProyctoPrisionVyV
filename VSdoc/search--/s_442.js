@@ -1,1 +1,1 @@
-search_result['442']=["topic_00000000000000D7_events--.html","ConsultaFallida Events",""];
+search_result['442']=["topic_00000000000000BC.html","DatosActividadPractica.BuscarDescripcionModalidadActividad Method","Busca una \u003cseealso cref=\"ActividadPractica\" /\u003e específica en la base de datos."];

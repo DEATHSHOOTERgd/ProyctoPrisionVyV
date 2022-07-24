@@ -1,0 +1,1 @@
+c['146']=[['147',"Expediente() Constructor","topic_0000000000000056.html",0],['148',"Expediente(int, string) Constructor","topic_0000000000000055.html",0],['149',"Expediente(int, string, List\u003cCargo\u003e, int) Constructor","topic_0000000000000054.html",0]];

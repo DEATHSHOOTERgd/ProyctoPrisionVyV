@@ -1,1 +1,1 @@
-search_result['476']=["topic_00000000000000E7.html","UsuarioTest Class",""];
+search_result['476']=["topic_00000000000000CA.html","DatosLogin.ConsultarRol Method","Busca un \u003cseealso cref=\"Rol\" /\u003e cuya descripción coincida con rol en la base de datos."];

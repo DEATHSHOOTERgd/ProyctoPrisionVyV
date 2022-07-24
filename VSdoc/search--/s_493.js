@@ -1,0 +1,1 @@
+search_result['493']=["topic_00000000000000D1.html","DatosRecluso.ConsultarCargos Method","Consulata todos los Cargos asociados a un Expediente cuyo código coincida con codigoExpediente en la base de datos."];

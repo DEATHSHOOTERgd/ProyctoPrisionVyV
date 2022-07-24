@@ -1,1 +1,1 @@
-search_result['248']=["topic_000000000000006B_overloads--.html","Persona Constructor",""];
+search_result['248']=["topic_0000000000000068.html","Persona Class","Almacena los datos personales tanto de usuarios como presos."];

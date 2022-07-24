@@ -1,1 +1,1 @@
-search_result['351']=["topic_00000000000000A6.html","ControlRecluso.ValidarRecluso Method","Valida que no exista un Recluso con la misma cedula."];
+search_result['351']=["topic_0000000000000099_props--.html","ControlCursosCurricular Properties",""];

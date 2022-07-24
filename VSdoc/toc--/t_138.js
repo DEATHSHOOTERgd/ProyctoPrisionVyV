@@ -1,1 +1,1 @@
-c['138']=[['139',"DiasDuracion Property","topic_000000000000004C.html",0],['140',"TotalDiasRedencion Property","topic_000000000000004B.html",0]];
+c['138']=[['139',"Curso Constructor","topic_000000000000004C.html",0],['140',"Properties","topic_0000000000000049_props--.html",1]];

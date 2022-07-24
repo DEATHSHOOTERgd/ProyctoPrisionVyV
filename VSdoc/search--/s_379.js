@@ -1,1 +1,1 @@
-search_result['379']=["topic_00000000000000B3.html","Conexion.Cerrar Method","Cierra la conexión con la base de datos."];
+search_result['379']=["topic_00000000000000A5.html","ControlRecluso.ListarReclusos Method","Lista a todos los datos de reclusos del sistema."];

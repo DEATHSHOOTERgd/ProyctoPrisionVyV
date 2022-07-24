@@ -1,1 +1,1 @@
-search_result['404']=["topic_00000000000000C2.html","DatosCursoCurricular.BuscarModalidadEstudio Method","Busca una \u003cseealso cref=\"ActividadCurricular\" /\u003e específica en la base de datos."];
+search_result['404']=["topic_00000000000000AE_attached_props--.html","GeneralExcepcion Attached Properties",""];

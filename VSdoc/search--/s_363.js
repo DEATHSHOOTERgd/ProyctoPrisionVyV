@@ -1,1 +1,1 @@
-search_result['363']=["topic_00000000000000AD.html","GeneralExcepcion Class",""];
+search_result['363']=["topic_000000000000009F.html","ControlCursosCurricular.FiltrarDescripcionModalidad Method","Metodo que se encarga de buscar cursos a partir de su descripcion y modalidad."];

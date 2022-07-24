@@ -1,1 +1,1 @@
-search_result['328']=["topic_0000000000000099.html","ControlCursosCurricular Class","Controlador que gestiona la información de \u003cseealso cref=\"ActividadCurricular\" /\u003e."];
+search_result['328']=["topic_000000000000008B.html","ControlActividadPractica.GuardarActividadPractica Method","Metodo que se encarga de guardar la actividad."];

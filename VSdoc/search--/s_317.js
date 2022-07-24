@@ -1,1 +1,1 @@
-search_result['317']=["topic_0000000000000090_methods--.html","ControladorUsuario Methods",""];
+search_result['317']=["topic_0000000000000086_overloads--.html","Usuario Constructor",""];

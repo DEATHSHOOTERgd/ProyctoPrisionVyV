@@ -1,1 +1,1 @@
-search_result['466']=["topic_00000000000000E2.html","ActividadPracticaTest.EliminarActividadCurricular_Exitoso Method","CP-13"];
+search_result['466']=["topic_00000000000000C5.html","DatosLogin Class","Esta clase permite el acceso a los datos de Usuario en la base de datos del sistema."];

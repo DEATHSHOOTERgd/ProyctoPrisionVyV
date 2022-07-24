@@ -1,1 +1,1 @@
-search_result['127']=["topic_0000000000000035_events--.html","ActividadCurricular Events",""];
+search_result['127']=["topic_0000000000000035.html","ActividadCurricular Class","Este tipo de actividad se refiere a aquellas que cuentan con cursos y docentes, a demás su redención solo se considera cuando se obtiene el certificado de culminación o título"];

@@ -1,1 +1,1 @@
-search_result['211']=["topic_000000000000005C_attached_props--.html","Horario Attached Properties",""];
+search_result['211']=["topic_0000000000000057.html","GrupoActividad Class","Representa  aun grupo de reclusos que participan en una actividad y el horario en el que la desarrollan."];

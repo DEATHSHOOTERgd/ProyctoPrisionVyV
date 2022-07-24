@@ -1,1 +1,1 @@
-search_result['340']=["topic_00000000000000A0.html","ControlRecluso Class","Controlador que gestiona la información de \u003cseealso cref=\"Recluso\" /\u003e."];
+search_result['340']=["topic_0000000000000092.html","ControladorUsuario.validarLogin Method",""];

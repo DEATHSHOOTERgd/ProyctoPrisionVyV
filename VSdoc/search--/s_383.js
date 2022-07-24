@@ -1,1 +1,1 @@
-search_result['383']=["topic_00000000000000B4_methods--.html","DatosActividadPractica Methods",""];
+search_result['383']=["topic_00000000000000A9.html","ControlRecluso.ActualizarRecluso Method","Actualiza los datos del recluso."];

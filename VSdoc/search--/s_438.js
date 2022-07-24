@@ -1,1 +1,1 @@
-search_result['438']=["topic_00000000000000D5.html","ConexionFallida Constructor",""];
+search_result['438']=["topic_00000000000000B8.html","DatosActividadPractica.EliminarActividad Method","Eliina un registro de \u003cseealso cref=\"ActividadPractica\" /\u003e de la base de datos del sistema cuya descripcion y modalidad coincidan."];

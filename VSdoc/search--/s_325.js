@@ -1,1 +1,1 @@
-search_result['325']=["topic_0000000000000096.html","ControladorUsuario.usuarioRepetido Method","Valida que no exista un usuario con el mismo nombre de usuario(usuario) registrado."];
+search_result['325']=["topic_0000000000000089_props--.html","ControlActividadPractica Properties",""];

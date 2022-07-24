@@ -1,1 +1,1 @@
-search_result['318']=["topic_0000000000000090_props--.html","ControladorUsuario Properties",""];
+search_result['318']=["topic_0000000000000087.html","Usuario(String, String, String, String, Rol) Constructor",""];

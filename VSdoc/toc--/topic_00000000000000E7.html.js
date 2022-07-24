@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000EC.html"],['214',"TestsPrision Namespace","topic_00000000000000DA.html"],['230',"UsuarioTest Class","topic_00000000000000E7.html"]];
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000ED.html"],['216',"TestsPrision Namespace","topic_00000000000000DB.html"],['227',"ReclusoTest Class","topic_00000000000000E4.html"],['228',"Methods","topic_00000000000000E4_methods--.html"],['229',"BuscarRecluso_Exitoso Method","topic_00000000000000E7.html"]];
