@@ -2,7 +2,10 @@
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
+
+
 namespace Visual.Recluso {
+
   public partial class FrmExpedienteRecluso : Form {
     ControlRecluso controlRecluso;
     //Muestra los detalles de un expedeinte específico al abrir la ventana. 
@@ -22,7 +25,7 @@ namespace Visual.Recluso {
     //Muestra los datos de un expediente peretneciente a un recluso cuyo número de cédula coincida con el argumento.
     private void ConsultarExpediente(string cedula) {
       List<Object> cargos;
-      string codigoExpediente = GetCodigoExpediente(controlRecluso.buscarExpediente(cedula));
+      string codigoExpediente = GetCodigoExpediente(controlRecluso.BuscarExpediente(cedula));
       cargos = controlRecluso.ListarCargos(codigoExpediente);
       lblCodigo.Text = codigoExpediente;
       LlenarTablaCargos(cargos);

@@ -3,7 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
+
 namespace Visual.Usuario {
+
   public partial class FrmConsultarUsuario : Form {
     ControladorUsuario controlUsuario = new ControladorUsuario();
 

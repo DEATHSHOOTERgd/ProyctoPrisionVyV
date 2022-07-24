@@ -3,7 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
 namespace Visual.Cursos {
+
   public partial class FrmHome : Form {
     ControlRecluso controlRecluso = new ControlRecluso();
     public FrmHome() {

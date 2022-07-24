@@ -2,7 +2,9 @@
 using System;
 using System.Windows.Forms;
 
+
 namespace Visual.Recluso {
+
   public partial class FrmIngresarRecluso : Form {
     ControlRecluso controlRecluso = new ControlRecluso();
 
@@ -49,9 +51,9 @@ namespace Visual.Recluso {
       DateTime fecha = dtpFecha.Value.Date;
 
       if (!EsVacio(codigo, nombre, apellido, genero, fecha, cedula)) {
-        if (!controlRecluso.existeCodigo(codigo)) {
+        if (!controlRecluso.ExisteCodigo(codigo)) {
           try {
-            int idExpediente = GetIdExpediente(controlRecluso.buscarExpediente(cedula));
+            int idExpediente = GetIdExpediente(controlRecluso.BuscarExpediente(cedula));
             controlRecluso.GuardarRecluso(codigo, nombre, apellido, genero, fecha, idExpediente, cedula);
             MessageBox.Show("Recluso Guardado con Exito");
           } catch (Exception ex) {

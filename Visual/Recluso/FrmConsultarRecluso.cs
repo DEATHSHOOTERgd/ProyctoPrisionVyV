@@ -3,7 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
 namespace Visual.Recluso {
+
   public partial class FrmConsultarRecluso : Form {
     ControladorUsuario controlUser = new ControladorUsuario();
     ControlRecluso controlRecluso = new ControlRecluso();

@@ -3,7 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
 namespace Visual {
+
   public partial class FrmTalleres : Form {
     ControlActividadPractica controlActividad = new ControlActividadPractica();
     public FrmTalleres() {

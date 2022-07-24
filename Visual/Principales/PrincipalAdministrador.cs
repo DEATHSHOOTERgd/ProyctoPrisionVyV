@@ -3,7 +3,9 @@ using System.Windows.Forms;
 using Visual.Recluso;
 using Visual.Usuario;
 
+
 namespace Visual {
+
   public partial class PrincipalAdministrador : Form {
     public PrincipalAdministrador() {
       InitializeComponent();

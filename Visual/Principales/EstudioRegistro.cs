@@ -3,7 +3,9 @@ using System.Linq;
 using System.Windows.Forms;
 using Visual.Cursos;
 
+
 namespace Visual {
+
   public partial class EstudioRegistro : Form {
     public EstudioRegistro(string usuario) {
       InitializeComponent();

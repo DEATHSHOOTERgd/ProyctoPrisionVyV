@@ -2,7 +2,10 @@
 using System;
 using System.Windows.Forms;
 
+
+
 namespace Visual.Usuario {
+
   public partial class FrmActualizarUsuario : Form {
     private string username;
     ControladorUsuario controlUsuario = new ControladorUsuario();

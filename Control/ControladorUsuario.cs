@@ -29,7 +29,7 @@ namespace Control {
     /// <param name="usuario">Nombre de usuario ingresado.</param>
     /// <param name="contrasena">Contraseña ingresada.</param>
     /// <exception cref="GeneralExcepcion">Cuando el <paramref name="usuario"/> y la <paramref name="contrasena"/> son incorrectos, o cuando solo la <paramref name="contrasena"/> lo es.</exception>
-    public bool validarLogin(string usuario, string contrasena) {
+    public bool ValidarLogin(string usuario, string contrasena) {
       Usuario user = null;
       user = _datosLogin.ConsultarUsuario(usuario);
 
@@ -100,7 +100,7 @@ namespace Control {
     /// </summary>
     /// <param name="usuario">Nombre de usuario del nuevo <see cref="Usuario"/> a insertar.</param>
     /// <exception cref="Exception">Cuando un <see cref="Usuario"/> con el mismo nombre de usuario ya se encuentra registrado.</exception>
-    public void usuarioRepetido(string usuario) {
+    public void UsuarioRepetido(string usuario) {
       Usuario user = null;
       user = _datosLogin.ConsultarUsuario(usuario);
 

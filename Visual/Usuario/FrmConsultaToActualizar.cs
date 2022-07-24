@@ -3,7 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
+
 namespace Visual.Usuario {
+
   public partial class FrmConsultaToActualizar : Form {
     ControladorUsuario controlUsuario = new ControladorUsuario();
     public FrmConsultaToActualizar() {

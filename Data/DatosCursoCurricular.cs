@@ -128,29 +128,6 @@ namespace Data {
       return actividades;
     }
     /// <summary>
-    /// Lee un <see cref="SqlDataReader"/> lleno con datos y devuelve una lista de actividades curriculares recuperadas de este.
-    /// </summary>
-    /// <param name="datos">Es un <see cref="SqlDataReader"/> que contiene los resultados de una consulta previa.</param>
-    /// <returns>Una lista de <seealso cref="ActividadCurricular"/> correspondiente a todos los registros de <paramref name="datos"/>.</returns>
-    private List<ActividadCurricular> LeerResultados(SqlDataReader datos) {
-      ActividadCurricular actividad = null;
-      List<ActividadCurricular> actividades = new List<ActividadCurricular>();
-
-      while (datos.Read()) {
-        actividad = new ActividadCurricular();
-        actividad.Id = Convert.ToInt32(datos["Id_Estudios"]);
-        actividad.Modalidad = datos["MetodoEstudio"].ToString();
-        actividad.Descripcion = datos["Descripcion"].ToString();
-        actividad.RemisionTotal = Convert.ToInt32(datos["RemisionCondena"]);
-        actividad.Cupos = Convert.ToInt32(datos["CuposDisponibles"]);
-        actividad.FechaInicio = Convert.ToDateTime(datos["FechaInicio"]);
-        actividad.FechaFin = Convert.ToDateTime(datos["FechaFin"]);
-        actividades.Add(actividad);
-      }
-
-      return actividades;
-    }
-    /// <summary>
     /// Consulta todas las actividades curriculares registradas en la base de datos.
     /// </summary>
     /// <returns>Una lista con todas las actividades curriculares registradas en el sistema.</returns>
@@ -236,6 +213,29 @@ namespace Data {
 
         Console.WriteLine(ex.Message);
         throw new ConsultaFallida();
+      }
+
+      return actividades;
+    }
+    /// <summary>
+    /// Lee un <see cref="SqlDataReader"/> lleno con datos y devuelve una lista de actividades curriculares recuperadas de este.
+    /// </summary>
+    /// <param name="datos">Es un <see cref="SqlDataReader"/> que contiene los resultados de una consulta previa.</param>
+    /// <returns>Una lista de <seealso cref="ActividadCurricular"/> correspondiente a todos los registros de <paramref name="datos"/>.</returns>
+    private List<ActividadCurricular> LeerResultados(SqlDataReader datos) {
+      ActividadCurricular actividad = null;
+      List<ActividadCurricular> actividades = new List<ActividadCurricular>();
+
+      while (datos.Read()) {
+        actividad = new ActividadCurricular();
+        actividad.Id = Convert.ToInt32(datos["Id_Estudios"]);
+        actividad.Modalidad = datos["MetodoEstudio"].ToString();
+        actividad.Descripcion = datos["Descripcion"].ToString();
+        actividad.RemisionTotal = Convert.ToInt32(datos["RemisionCondena"]);
+        actividad.Cupos = Convert.ToInt32(datos["CuposDisponibles"]);
+        actividad.FechaInicio = Convert.ToDateTime(datos["FechaInicio"]);
+        actividad.FechaFin = Convert.ToDateTime(datos["FechaFin"]);
+        actividades.Add(actividad);
       }
 
       return actividades;

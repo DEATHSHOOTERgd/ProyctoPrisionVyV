@@ -26,7 +26,7 @@ namespace Control {
     /// </summary>
     /// <param name="codigo">Código del nuevo <see cref="Recluso"/> a insertar.</param>
     /// <returns>Si el <paramref name="codigo"/> ya está registrado devuelve <see cref="true"/>,si no, devlueve <see cref="false"/>.</returns>
-    public bool existeCodigo(string codigo) {
+    public bool ExisteCodigo(string codigo) {
       List<Recluso> reclusos = _datosRecluso.ConsultarReclusos();
 
       foreach (Recluso recluso in reclusos) {
@@ -42,7 +42,7 @@ namespace Control {
     /// </summary>
     /// <param name="cedula">Cédula del <see cref="Recluso"/> cuyo <see cref="Expediente"/> se busca.</param>
     /// <returns>Un <see cref="Expediente"/>.</returns>
-    public Object buscarExpediente(string cedula) {
+    public Object BuscarExpediente(string cedula) {
       Expediente expediente = null;
       expediente = _datosRecluso.BuscarExpediente(cedula);
 

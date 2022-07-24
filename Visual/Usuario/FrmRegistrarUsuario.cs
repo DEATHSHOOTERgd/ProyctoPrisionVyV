@@ -2,7 +2,9 @@
 using System;
 using System.Windows.Forms;
 
+
 namespace Visual.Usuario {
+
   public partial class FrmRegistrarUsuario : Form {
     ControladorUsuario controlUsuario = new ControladorUsuario();
     public FrmRegistrarUsuario() {

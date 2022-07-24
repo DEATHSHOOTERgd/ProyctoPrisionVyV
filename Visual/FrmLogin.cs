@@ -2,7 +2,10 @@
 using System;
 using System.Windows.Forms;
 
+
+
 namespace Visual {
+
   public partial class FrmLogin : Form {
     ControladorUsuario controlUser = new ControladorUsuario();
     public FrmLogin() {
@@ -20,7 +23,7 @@ namespace Visual {
     private void Login(string usuario, string contrasena) {
       if (!EsVacio(usuario, contrasena)) {
         try {
-          controlUser.validarLogin(usuario, contrasena);
+          controlUser.ValidarLogin(usuario, contrasena);
           AbrirMenu(usuario);
         } catch (GeneralExcepcion ex) {
           MessageBox.Show(ex.Message, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
